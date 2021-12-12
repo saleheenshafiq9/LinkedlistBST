@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1639342997 source:d:\iit\semester iii\linkedlist_bst_sort\main.cpp
+	<iostream>
+	<stdio.h>
+	"header.h"
+
+1639343215 d:\iit\semester iii\linkedlist_bst_sort\header.h
+
+1639341770 source:d:\iit\semester iii\linkedlist_bst_sort\linkedlist.cpp
+	<iostream>
+	<stdlib.h>
+	"header.h"
+
+1639341799 source:d:\iit\semester iii\linkedlist_bst_sort\bst.cpp
+	<iostream>
+	<stdio.h>
+	"header.h"
+
+1639343123 source:d:\iit\semester iii\linkedlist_bst_sort\bubble.cpp
+	<iostream>
+	<stdio.h>
+	"header.h"
+
+1639343094 source:d:\iit\semester iii\linkedlist_bst_sort\selection.cpp
+	<iostream>
+	<stdio.h>
+	"header.h"
+
+1639343542 source:d:\iit\semester iii\linkedlist_bst_sort\binarysearch.cpp
+	<iostream>
+	<stdio.h>
+	"header.h"
+
